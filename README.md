@@ -36,7 +36,13 @@
 
 🌐 **体验地址**: [http://demo.midjourneycloud.com/](http://demo.midjourneycloud.com/)
 
-🔑 **测试账号**: `magicai` | **密码**: `magicai`
+🔑 **测试账号**: `magicai` | **密码**: `magicai.`
+
+### 🚀 官方生图站点
+
+🎨 **悠船生图渠道**: [https://proxy.midjourneycloud.com/](https://proxy.midjourneycloud.com/)
+
+*稳定的悠船生图渠道 - 基于本系统搭建的官方服务站点*
 
 ---
 
@@ -53,6 +59,24 @@
 
 ### 👥 用户管理系统
 ![用户管理](./public/user.png)
+
+### 📱 移动端界面预览
+
+<div align="center">
+
+#### 🎨 移动端绘图界面
+<img src="./public/mobile_draw.png" width="250" alt="移动端绘图" />
+
+#### 📋 移动端任务管理
+<img src="./public/mobile_task.png" width="250" alt="移动端任务" />
+
+#### 📊 移动端统计面板
+<img src="./public/mobile_tongji.png" width="250" alt="移动端统计" />
+
+#### 👤 移动端用户中心
+<img src="./public/mobile_user.png" width="250" alt="移动端用户" />
+
+</div>
 
 ---
 
